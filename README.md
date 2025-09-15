@@ -73,19 +73,24 @@
     <th style="padding: 10px; text-align: left;">📄 Description</th>
   </tr>
   <tr style="background-color: #f4f4f4;">
-    <td style="padding: 10px;">🔎 Job Recruit AI</td>
+    <td style="padding: 10px;"><a href="https://bdmouza.com/">BD Mouza</a></td>
     <td style="padding: 10px;">MERN + AI + Cloudinary</td>
-    <td style="padding: 10px;">Auto-generates job forms and filters candidates via AI</td>
+    <td style="padding: 10px;">Auto-generates  forms and filters candidates via AI</td>
   </tr>
   <tr>
-    <td style="padding: 10px;">📚 LMS Platform</td>
+    <td style="padding: 10px;"><a href="https://skillbeeacademy.com/">📚 LMS Platform</a></td>
     <td style="padding: 10px;">Django + Tailwind + Alpine.js</td>
     <td style="padding: 10px;">Video-based interactive learning system</td>
   </tr>
   <tr style="background-color: #f4f4f4;">
-    <td style="padding: 10px;">💰 InvestX</td>
+    <td style="padding: 10px;"><a href="https://onroyalfx.com/">💰 OnroyalFx </a></td>
     <td style="padding: 10px;">MERN + Wallet System</td>
-    <td style="padding: 10px;">Secure investment platform with KYC & referral tracking</td>
+    <td style="padding: 10px;">Secure investment platform with referral tracking</td>
+  </tr>
+  <tr style="background-color: #f4f4f4;">
+    <td style="padding: 10px;"><a href="http://3.106.185.186/admin/"> Loan Management </a></td>
+    <td style="padding: 10px;">React + Django + AWS</td>
+    <td style="padding: 10px;">A secure loan management platform with KYC verification, referral tracking, and investment features</td>
   </tr>
 </table>
 
