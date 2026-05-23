@@ -93,7 +93,7 @@ My work mainly focuses on **React.js, Next.js, Node.js, Django, REST APIs, datab
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=oveshak&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
