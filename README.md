@@ -12,9 +12,9 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> -->
 
-<img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://img.shields.io/github/followers/totons?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/totons?label=Followers&style=for-the-badge&color=4ECDC4" alt="GitHub Followers" />
 
 </div>
 
@@ -27,12 +27,19 @@
 <a href="mailto:oveshekkundu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/totons">
   <img src="https://img.shields.io/badge/GitHub-totons-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://oveshaktoton.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 
 </div>
 
