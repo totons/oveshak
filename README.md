@@ -20,7 +20,7 @@
 
 ### 🌐 Connect With Me
 
-<a href="mailto:oveshaktoton9999@gmail.com">
+<a href="mailto:oveshekkundu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/">
@@ -107,7 +107,7 @@ My main focus is developing high-quality web applications using **React.js, Next
 /> -->
 
 <img 
-  width="100%"
+  width="70%"
   src="https://github-readme-streak-stats-eight.vercel.app?user=totons&theme=radical&hide_border=true" 
   alt="GitHub Streak" 
 />
