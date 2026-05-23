@@ -107,7 +107,7 @@ My main focus is developing high-quality web applications using **React.js, Next
 /> -->
 
 <img 
-  width="48%"
+  width="100%"
   src="https://github-readme-streak-stats-eight.vercel.app?user=totons&theme=radical&hide_border=true" 
   alt="GitHub Streak" 
 />
