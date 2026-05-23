@@ -95,36 +95,28 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-### ⚡ GitHub Stats
-
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
   alt="GitHub Stats" 
 />
 
-<br/><br/>
-
-### 🔥 GitHub Streak
-
 <img 
+  width="48%"
   src="https://github-readme-streak-stats-eight.vercel.app?user=totons&theme=radical&hide_border=true" 
   alt="GitHub Streak" 
 />
 
 <br/><br/>
 
-### 📌 Most Used Languages
-
-<!-- <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true" 
-  alt="Top Languages" 
-/> -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true&langs_count=8" 
   alt="Top Languages" 
 />
 
