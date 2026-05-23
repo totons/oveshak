@@ -119,8 +119,12 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 ### 📌 Most Used Languages
 
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true" 
+  alt="Top Languages" 
+/> -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
   alt="Top Languages" 
 />
 
