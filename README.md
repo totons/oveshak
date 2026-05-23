@@ -10,7 +10,11 @@
   I build modern, scalable, and user-friendly web applications with clean code and strong problem-solving.
 </p>
 
+<!-- <img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> -->
+
 <img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/totons?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
 
 </div>
 
