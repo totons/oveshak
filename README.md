@@ -170,9 +170,9 @@ My main focus is developing high-quality web applications using **React.js, Next
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahmidMuntaser&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00bfff&text_color=c9d1d9&ring_color=00ff41" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=totons&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00bfff&text_color=c9d1d9&ring_color=00ff41" height="180" alt="GitHub Stats"/>
   <img width="12"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TahmidMuntaser&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=totons&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20" height="180" alt="Top Languages"/>
 </div>
 
 ---
