@@ -125,12 +125,33 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 <br/><br/>
 
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totons&theme=2077" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totons&theme=2077" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=totons&theme=2077" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=totons&theme=2077&utcOffset=6" height="160"/>
+</div>
+
 <!-- <img 
   width="45%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true&langs_count=8" 
   alt="Top Languages" 
 /> -->
 
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=totons&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00bfff&text_color=c9d1d9&ring_color=00ff41" height="180" alt="GitHub Stats"/>
+  <img width="12"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=totons&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20" height="180" alt="Top Languages"/>
 </div>
 
 ---
@@ -167,13 +188,7 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=totons&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00bfff&text_color=c9d1d9&ring_color=00ff41" height="180" alt="GitHub Stats"/>
-  <img width="12"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=totons&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20" height="180" alt="Top Languages"/>
-</div>
 
 ---
 
@@ -183,23 +198,8 @@ My main focus is developing high-quality web applications using **React.js, Next
   <img src="https://streak-stats.demolab.com?user=TahmidMuntaser&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" height="180" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidMuntaser&theme=2077" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidMuntaser&theme=2077" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidMuntaser&theme=2077" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidMuntaser&theme=2077&utcOffset=6" height="160"/>
-</div>
-
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidMuntaser&bg_color=0d1117&color=00ff41&line=00bfff&point=ff00ff&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</div>
 
 
 
