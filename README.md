@@ -111,24 +111,33 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 <div align="center">
 
-<!-- <img 
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
-  alt="GitHub Stats" 
-/> -->
 
-<img 
-  width="70%"
-  src="https://github-readme-streak-stats-eight.vercel.app?user=totons&theme=radical&hide_border=true" 
-  alt="GitHub Streak" 
-/>
-
-<br/><br/>
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totons&theme=2077" alt="Profile Summary"/>
+
+  <img 
+    src="https://streak-stats.demolab.com?user=totons&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" 
+    width="50%" 
+    alt="GitHub Streak"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totons&theme=2077" 
+    width="50%" 
+    alt="Profile Summary"
+  />
+
 </div>
+
+
+
+<!-- <div align="center">
+
+   <img src="https://streak-stats.demolab.com?user=TahmidMuntaser&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" height="180" alt="GitHub Streak"/>
+   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totons&theme=2077" alt="Profile Summary"/>
+</div> -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totons&theme=2077" height="160"/>
@@ -194,9 +203,9 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 ## 🔥 Contribution Streak & Achievements
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TahmidMuntaser&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" height="180" alt="GitHub Streak"/>
-</div>
+<!-- <div align="center">
+ 
+</div> -->
 
 ---
 
