@@ -114,7 +114,7 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 
 
-<div align="center">
+<!-- <div align="center">
 
   <img 
     src="https://streak-stats.demolab.com?user=totons&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" 
@@ -127,6 +127,32 @@ My main focus is developing high-quality web applications using **React.js, Next
     width="50%" 
     alt="Profile Summary"
   />
+
+</div> -->
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" style="border: none;">
+
+<img 
+  src="https://streak-stats.demolab.com?user=totons&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff00ff&currStreakNum=00ff41&sideNums=00bfff&currStreakLabel=ff00ff&sideLabels=00ff41&dates=c9d1d9" 
+  width="100%" 
+  alt="GitHub Streak"
+/>
+
+</td>
+<td width="50%" align="center" style="border: none;">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totons&theme=2077" 
+  width="100%" 
+  alt="Profile Summary"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -189,7 +215,6 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 </div>
 
----
 
 
 
@@ -199,9 +224,6 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 
 
----
-
-## 🔥 Contribution Streak & Achievements
 
 <!-- <div align="center">
  
