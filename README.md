@@ -1,156 +1,173 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Oveshek Kundu Toton</h1>
-<h3 align="center">Full Stack Developer | React.js | Next.js | Node.js | Django</h3>
+<!-- GITHUB PROFILE README -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+
+# 👋 Hi, I'm Oveshek Kundu Toton
+
+### 🚀 Full Stack Developer | React.js | Next.js | Node.js | Django
+
+<p>
+  I build modern, scalable, and user-friendly web applications with clean code and strong problem-solving.
 </p>
 
-<p align="center">
-  <a href="mailto:oveshaktoton9999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/oveshak">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=totons&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="mailto:oveshaktoton9999@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/totons">
+  <img src="https://img.shields.io/badge/GitHub-totons-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+I am a passionate **Full Stack Developer** focused on building responsive, scalable, and production-ready web applications.
 
-I enjoy transforming real-world ideas into production-ready digital solutions using clean architecture, efficient backend systems, and responsive frontend interfaces.
+I enjoy turning ideas into real-world digital products using modern frontend technologies, powerful backend systems, clean database design, and user-friendly interfaces.
 
-My work mainly focuses on **React.js, Next.js, Node.js, Django, REST APIs, database design, authentication systems, dashboard development, and cloud-based deployment**.
+My main focus is developing high-quality web applications using **React.js, Next.js, Node.js, Express.js, Django, REST APIs, MongoDB, PostgreSQL, MySQL, and cloud-based tools**.
 
-- 🔭 Currently working on full stack web applications
-- 🌱 Continuously improving my skills in scalable backend architecture and modern frontend development
-- 💡 Interested in SaaS platforms, admin dashboards, AI-powered tools, and business automation systems
-- 🎯 Goal: To become a highly skilled software engineer capable of building reliable real-world products
-- ⚡ Mindset: Clean code, strong logic, continuous learning, and problem-solving
+- 🔭 Currently working on full stack web application development  
+- 🌱 Improving my skills in backend architecture, system design, and cloud deployment  
+- 💡 Interested in SaaS platforms, dashboards, AI-powered tools, and automation systems  
+- 🎯 Focused on clean code, performance, security, and great user experience  
+- 🚀 Goal: To become a professional software engineer capable of building reliable real-world products  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
-</p>
+### 🎨 Frontend
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python" />
-</p>
+<br/><br/>
 
-### Database
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python" />
 
-### Tools & Platforms
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,figma,vscode" />
-</p>
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+<br/><br/>
+
+### ☁️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,figma,vscode" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
 
 | Project | Technologies | Description |
 |--------|--------------|-------------|
 | **BD Mouza** | MERN Stack, AI, Cloudinary | AI-powered platform for form generation and candidate filtering |
 | **LMS Platform** | Django, React.js, Tailwind CSS | Interactive learning management system with modern UI and course features |
 | **OnRoyalFX** | MERN Stack | Investment platform with wallet, referral, and user management features |
-| **Loan Management System** | React.js, Django, AWS | Secure loan and investment management system with KYC and referral features |
+| **Loan Management System** | React.js, Django, AWS | Secure loan and investment management system with KYC, investment, and referral features |
 
----
-
-## 💼 What I Can Build
-
-- Full stack web applications
-- Admin dashboards
-- Authentication and role-based access systems
-- REST API-based backend systems
-- SaaS-style platforms
-- E-commerce and business websites
-- Learning management systems
-- Investment, wallet, and referral-based platforms
-- Database-driven web applications
-- Responsive landing pages and portfolio websites
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oveshak&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+### ⚡ GitHub Stats
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  alt="GitHub Stats" 
+/>
 
-## 🏆 GitHub Profile Trophy
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oveshak&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+### 🔥 GitHub Streak
 
----
+<img 
+  src="https://github-readme-streak-stats-eight.vercel.app?user=totons&theme=radical&hide_border=true" 
+  alt="GitHub Streak" 
+/>
 
-## 📈 Activity Graph
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oveshak&theme=tokyo-night&hide_border=true" />
-</p>
+### 📌 Most Used Languages
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true" 
+  alt="Top Languages" 
+/>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:oveshaktoton9999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-oveshaktoton9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oveshek%20Kundu%20Toton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/oveshak">
-    <img src="https://img.shields.io/badge/GitHub-oveshak-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 💬 Developer Quote
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.”</i>
-</p>
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=totons&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+  alt="GitHub Trophies" 
+/>
+
+</div>
 
 ---
 
-<h3 align="center">🚀 Building scalable digital products with clean code and modern technologies</h3>
+## 📈 Contribution Activity
 
-<p align="center">
-  Thank you for visiting my profile!
-</p>
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=totons&theme=redical&hide_border=true" 
+  alt="GitHub Activity Graph" 
+/>
+
+</div>
+
+---
+
+## 💬 Developer Mindset
+
+<div align="center">
+
+### “First, solve the problem. Then, write the code.”
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Thanks for visiting my profile ✨
+
+### 🚀 Building scalable digital products with modern technologies
+
+</div>
