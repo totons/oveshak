@@ -100,11 +100,11 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 <div align="center">
 
-<img 
+<!-- <img 
   width="48%"
   src="https://github-readme-stats.vercel.app/api?username=totons&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
   alt="GitHub Stats" 
-/>
+/> -->
 
 <img 
   width="48%"
@@ -114,11 +114,11 @@ My main focus is developing high-quality web applications using **React.js, Next
 
 <br/><br/>
 
-<img 
+<!-- <img 
   width="45%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=totons&layout=compact&theme=radical&hide_border=true&langs_count=8" 
   alt="Top Languages" 
-/>
+/> -->
 
 </div>
 
